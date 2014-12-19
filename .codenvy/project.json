@@ -1,0 +1,1 @@
+{"description":"A simple web php application using Google App Engine.","runners":{"configs":{"recommend":{"options":{},"variables":{},"ram":256}},"default":"system:/php/web/php56_gae1914"},"type":"GAEPhp","attributes":{"language":["php"]}}
